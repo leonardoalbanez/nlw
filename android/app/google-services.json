@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "57482652934",
+    "project_id": "payflow-rocektseat-aula",
+    "storage_bucket": "payflow-rocektseat-aula.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57482652934:android:ad9931c3c38ed4c1f58287",
+        "android_client_info": {
+          "package_name": "com.example.payflow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57482652934-8nk0q3bh0fbbr8g6938srau76kuc53a0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.payflow",
+            "certificate_hash": "0cfed49cf3305af50a19a0b250c30d6e26f7607d"
+          }
+        },
+        {
+          "client_id": "57482652934-60bbqe9kgvfe8gmgcpbsld1d5l4s7f45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZkkp-J742StrMRFjAwKB-nFdKujVmzVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57482652934-60bbqe9kgvfe8gmgcpbsld1d5l4s7f45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
