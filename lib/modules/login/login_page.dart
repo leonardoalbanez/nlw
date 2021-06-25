@@ -37,7 +37,7 @@ class _LoginPageState extends State<LoginPage> {
                 child: Image.asset(
                   AppImages.person,
                   width: 208,
-                  height: 300,
+                  height: 373,
                 )),
             Positioned(
               bottom: size.height * 0.05,
