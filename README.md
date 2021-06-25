@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+[NLW/Together] Jun/2021
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
